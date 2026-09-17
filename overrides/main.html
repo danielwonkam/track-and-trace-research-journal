@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <script>
+    // i18n already provides page-specific links. File browsing cannot fetch
+    // sitemaps; omit Material's redundant sitemap-based language discovery.
+    if (location.protocol === "file:") {
+      document.querySelectorAll('link[rel="alternate"][hreflang]').forEach((link) => link.remove());
+    }
+  </script>
+{% endblock %}
+
+{% block announce %}
+  {% set locale = i18n_page_locale | default("en") %}
+  <span>{{ {
+    "en": "Private research portal · FTS and workpiece tracking · Status: 15 September 2026",
+    "fr": "Portail de recherche privé · Suivi du FTS et des pièces · État au 15 septembre 2026",
+    "de": "Privates Forschungsportal · FTS- und Werkstückverfolgung · Stand: 15. September 2026"
+  }.get(locale) }}</span>
+{% endblock %}
+
+{% block content %}
+  {% if page and config.extra.alternate %}
+    <nav class="portal-languages" aria-label="English / Français / Deutsch">
+      {% for alternate in config.extra.alternate %}
+        <a href="{{ alternate.link | url }}" hreflang="{{ alternate.lang }}" lang="{{ alternate.lang }}"{% if alternate.lang == i18n_page_locale %} aria-current="true"{% endif %}>{{ alternate.name }}</a>
+      {% endfor %}
+    </nav>
+  {% endif %}
+  {{ super() }}
+{% endblock %}

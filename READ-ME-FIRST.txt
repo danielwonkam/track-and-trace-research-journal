@@ -1,0 +1,20 @@
+TRACK & TRACE RESEARCH JOURNAL
+
+English: Extract the complete ZIP first, then open index.html in your browser.
+Use English / Français / Deutsch at the top of any page to switch language.
+The briefings are translated in full. Journal and evidence reading summaries
+link to the complete original English technical record. No installation needed.
+This is a static snapshot, not a connection to the live factory or dashboard.
+Share only with an approved recipient; the journal contains private research.
+
+Français : Extrayez tout le ZIP, puis ouvrez index.html dans votre navigateur.
+Choisissez Français en haut de la page. Les bilans sont entièrement traduits ;
+les synthèses du journal renvoient aux justificatifs techniques anglais complets.
+Aucune installation nécessaire. Copie statique, sans connexion à l’usine.
+À transmettre uniquement aux destinataires autorisés.
+
+Deutsch: Die gesamte ZIP-Datei entpacken und index.html im Browser öffnen.
+Oben Deutsch auswählen. Die Übersichten sind vollständig übersetzt; die
+Journal-Zusammenfassungen verweisen auf die vollständigen englischen Nachweise.
+Keine Installation erforderlich. Statische Kopie ohne Verbindung zur Anlage.
+Nur an berechtigte Empfänger weitergeben.

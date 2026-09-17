@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>http://127.0.0.1:8011/index.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/index.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/index.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/index.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/supervisor-briefing.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/supervisor-briefing.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/supervisor-briefing.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/supervisor-briefing.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/baseline-review.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/baseline-review.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/baseline-review.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/baseline-review.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/baseline-summary.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/baseline-summary.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/baseline-summary.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/baseline-summary.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-07-28.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-07-28.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-07-28.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-07-28.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-07-29.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-07-29.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-07-29.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-07-29.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-07-31.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-07-31.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-07-31.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-07-31.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-08-04.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-04.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-04.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-04.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-08-05.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-05.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-05.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-05.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-08-06.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-06.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-06.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-06.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-08-10.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-10.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-10.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-10.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-08-11.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-11.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-11.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-11.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-08-12.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-12.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-12.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-12.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-08-14.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-14.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-14.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-14.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-08-20.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-20.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-20.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-20.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-08-21.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-21.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-21.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-21.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-08-22.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-22.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-22.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-22.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-09-02.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-02.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-02.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-02.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-09-03.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-03.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-03.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-03.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-09-04.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-04.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-04.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-04.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-09-14.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-14.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-14.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-14.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/daily-2026-09-15.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-15.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-15.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-15.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/decisions.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/decisions.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/decisions.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/decisions.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/experiments.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/experiments.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/experiments.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/experiments.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/fts-annotation-protocol.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/fts-annotation-protocol.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/fts-annotation-protocol.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/fts-annotation-protocol.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/fts-detector-evaluation-v1.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/fts-detector-evaluation-v1.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/fts-detector-evaluation-v1.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/fts-detector-evaluation-v1.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/fts-pilot-v0.1.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/fts-pilot-v0.1.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/fts-pilot-v0.1.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/fts-pilot-v0.1.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/history.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/history.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/history.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/history.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/journal-guide.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/journal-guide.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/journal-guide.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/journal-guide.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/lessons.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/lessons.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/lessons.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/lessons.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/meeting-2026-08-28.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/meeting-2026-08-28.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/meeting-2026-08-28.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/meeting-2026-08-28.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/meeting-2026-09-01.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/meeting-2026-09-01.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/meeting-2026-09-01.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/meeting-2026-09-01.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/meeting-2026-09-04.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/meeting-2026-09-04.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/meeting-2026-09-04.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/meeting-2026-09-04.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/planification.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/planification.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/planification.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/planification.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/roadmap.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/roadmap.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/roadmap.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/roadmap.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/scope.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/scope.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/scope.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/scope.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/supervisor-2026-07-28.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/supervisor-2026-07-28.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/supervisor-2026-07-28.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/supervisor-2026-07-28.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/generated/supervisor-2026-08-04.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/supervisor-2026-08-04.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/supervisor-2026-08-04.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/supervisor-2026-08-04.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/index.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/index.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/index.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/supervisor-briefing.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/supervisor-briefing.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/supervisor-briefing.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/supervisor-briefing.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/baseline-review.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/baseline-review.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/baseline-review.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/baseline-review.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/baseline-summary.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/baseline-summary.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/baseline-summary.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/baseline-summary.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-07-28.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-07-28.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-07-28.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-07-28.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-07-29.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-07-29.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-07-29.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-07-29.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-07-31.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-07-31.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-07-31.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-07-31.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-08-04.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-04.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-04.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-04.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-08-05.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-05.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-05.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-05.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-08-06.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-06.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-06.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-06.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-08-10.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-10.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-10.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-10.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-08-11.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-11.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-11.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-11.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-08-12.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-12.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-12.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-12.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-08-14.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-14.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-14.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-14.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-08-20.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-20.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-20.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-20.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-08-21.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-21.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-21.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-21.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-08-22.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-22.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-22.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-22.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-09-02.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-02.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-02.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-02.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-09-03.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-03.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-03.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-03.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-09-04.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-04.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-04.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-04.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-09-14.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-14.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-14.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-14.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/daily-2026-09-15.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-15.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-15.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-15.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/decisions.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/decisions.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/decisions.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/decisions.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/experiments.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/experiments.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/experiments.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/experiments.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/fts-annotation-protocol.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/fts-annotation-protocol.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/fts-annotation-protocol.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/fts-annotation-protocol.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/fts-detector-evaluation-v1.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/fts-detector-evaluation-v1.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/fts-detector-evaluation-v1.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/fts-detector-evaluation-v1.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/fts-pilot-v0.1.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/fts-pilot-v0.1.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/fts-pilot-v0.1.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/fts-pilot-v0.1.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/history.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/history.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/history.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/history.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/journal-guide.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/journal-guide.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/journal-guide.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/journal-guide.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/lessons.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/lessons.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/lessons.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/lessons.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/meeting-2026-08-28.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/meeting-2026-08-28.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/meeting-2026-08-28.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/meeting-2026-08-28.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/meeting-2026-09-01.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/meeting-2026-09-01.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/meeting-2026-09-01.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/meeting-2026-09-01.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/meeting-2026-09-04.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/meeting-2026-09-04.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/meeting-2026-09-04.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/meeting-2026-09-04.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/planification.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/planification.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/planification.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/planification.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/roadmap.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/roadmap.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/roadmap.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/roadmap.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/scope.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/scope.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/scope.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/scope.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/supervisor-2026-07-28.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/supervisor-2026-07-28.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/supervisor-2026-07-28.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/supervisor-2026-07-28.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/fr/generated/supervisor-2026-08-04.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/supervisor-2026-08-04.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/supervisor-2026-08-04.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/supervisor-2026-08-04.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/index.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/index.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/index.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/supervisor-briefing.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/supervisor-briefing.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/supervisor-briefing.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/supervisor-briefing.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/baseline-review.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/baseline-review.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/baseline-review.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/baseline-review.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/baseline-summary.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/baseline-summary.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/baseline-summary.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/baseline-summary.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-07-28.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-07-28.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-07-28.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-07-28.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-07-29.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-07-29.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-07-29.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-07-29.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-07-31.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-07-31.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-07-31.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-07-31.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-08-04.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-04.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-04.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-04.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-08-05.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-05.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-05.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-05.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-08-06.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-06.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-06.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-06.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-08-10.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-10.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-10.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-10.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-08-11.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-11.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-11.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-11.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-08-12.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-12.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-12.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-12.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-08-14.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-14.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-14.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-14.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-08-20.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-20.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-20.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-20.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-08-21.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-21.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-21.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-21.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-08-22.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-08-22.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-08-22.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-08-22.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-09-02.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-02.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-02.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-02.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-09-03.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-03.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-03.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-03.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-09-04.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-04.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-04.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-04.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-09-14.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-14.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-14.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-14.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/daily-2026-09-15.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/daily-2026-09-15.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/daily-2026-09-15.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/daily-2026-09-15.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/decisions.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/decisions.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/decisions.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/decisions.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/experiments.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/experiments.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/experiments.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/experiments.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/fts-annotation-protocol.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/fts-annotation-protocol.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/fts-annotation-protocol.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/fts-annotation-protocol.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/fts-detector-evaluation-v1.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/fts-detector-evaluation-v1.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/fts-detector-evaluation-v1.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/fts-detector-evaluation-v1.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/fts-pilot-v0.1.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/fts-pilot-v0.1.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/fts-pilot-v0.1.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/fts-pilot-v0.1.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/history.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/history.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/history.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/history.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/journal-guide.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/journal-guide.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/journal-guide.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/journal-guide.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/lessons.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/lessons.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/lessons.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/lessons.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/meeting-2026-08-28.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/meeting-2026-08-28.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/meeting-2026-08-28.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/meeting-2026-08-28.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/meeting-2026-09-01.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/meeting-2026-09-01.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/meeting-2026-09-01.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/meeting-2026-09-01.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/meeting-2026-09-04.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/meeting-2026-09-04.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/meeting-2026-09-04.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/meeting-2026-09-04.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/planification.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/planification.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/planification.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/planification.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/roadmap.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/roadmap.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/roadmap.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/roadmap.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/scope.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/scope.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/scope.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/scope.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/supervisor-2026-07-28.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/supervisor-2026-07-28.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/supervisor-2026-07-28.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/supervisor-2026-07-28.html"/>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8011/de/generated/supervisor-2026-08-04.html</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="http://127.0.0.1:8011/de/generated/supervisor-2026-08-04.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8011/generated/supervisor-2026-08-04.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://127.0.0.1:8011/fr/generated/supervisor-2026-08-04.html"/>
+    </url>
+</urlset>
